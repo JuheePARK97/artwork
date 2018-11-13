@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+에펠탑 모방 작품
 
-You can use the [editor on GitHub](https://github.com/JuheePARK97/artwork/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+첫번째 작품은 조르주 쇠라의 그림 에펠탑입니다. 조르주 쇠라는 점묘법을 활용한 대표 미술가입니다. 저는 조르주 쇠라의 에펠탑을 모방하여 마우스 위치에 따라 작은 원형이 무수히 생성되며, 순서에 따라서 형성된 원형들의 색상 값을 조절하는 인터렉션을 추가하였습니다. 에펠탑을 일러스트로 우선 그렸고 이후 프로세싱3.4에서 작업하였습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuheePARK97/artwork/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
